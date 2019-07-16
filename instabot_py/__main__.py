@@ -150,7 +150,7 @@ def setupinteractive(config, config_location="instabot.config.ini"):
     )
 
     config["DEFAULT"]["tag_list"] = json.dumps(
-        ["follow4follow", "f4f", "cute", "l:212999109"]
+        ["follow4follow", "like4like","baby", "haztorobo", "cute", "mallu","l:212999109"]
     )
 
     config["DEFAULT"]["tag_blacklist"] = json.dumps(["rain", "thunderstorm"])
